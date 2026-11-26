@@ -4,8 +4,9 @@
 
 - Website: [https://taktproof.com](https://taktproof.com)
 - Live 8D × PFMEA Checker: [https://taktproof.com/#auditor](https://taktproof.com/#auditor)
-- Contact: `hello@taktproof.com`
-- Operated by: **Jetspeed Consulting** · 300 West Yan An Road, Shanghai, China
+- Sales & Architecture: `hello@taktproof.com`
+- Technical Support: `support@taktproof.com`
+- Operated by: **Shaoyang Information Technology** · 300 West Yan An Road, Shanghai, China
 
 ## Open Engineering Artifacts
 
